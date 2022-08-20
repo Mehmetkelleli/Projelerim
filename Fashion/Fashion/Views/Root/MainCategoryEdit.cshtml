@@ -1,0 +1,38 @@
+﻿@model MainCategory
+@{
+    ViewData["Title"] = "ProductAdd";
+    Layout = "~/Views/Shared/_LayoutRoot.cshtml";
+}
+<div class="col-md-9">
+    <div class="card card-primary mt-5">
+              <div class="card-header">
+                <h3 class="card-title">Product Edit</h3>
+              </div>
+              <!-- /.card-header -->
+              <!-- form start -->
+              <div class="row">
+                  <div class="col-md-12">
+                      <form asp-controller="Root" asp-action="MainCategoryEdit" method="post">
+                  <div class="card-body">
+                  <div class="form-group">
+                    <label>Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter Name" Value="@Model.Name">
+                  </div>
+                  <div class="form-group">
+                    <label>Url</label>
+                    <input asp-for="Url" class="form-control" placeholder="Enter Seo Url" Value="@Model.Url">
+                  </div>
+                 
+                  </div>
+                <!-- /.card-body -->
+
+                <div class="card-footer">
+                  <button type="submit" class="btn btn-primary">Edit Main Category</button>
+                </div>
+              </form>
+                  </div>
+              
+              </div>
+            </div>
+</div>
+

@@ -1,0 +1,66 @@
+﻿@model SiteConfig
+@{
+    ViewData["Title"] = "SiteConfig";
+    Layout = "~/Views/Shared/_LayoutRoot.cshtml";
+}
+<div class="col-md-9">
+    <div class="card card-primary mt-5">
+              <div class="card-header">
+                <h3 class="card-title">Color Add</h3>
+              </div>
+              <!-- /.card-header -->
+              <!-- form start -->
+              <div class="row">
+                  <div class="col-md-12">
+                 <form asp-controller="Root" asp-action="SiteConfig" method="post" enctype="multipart/form-data">
+                  <div class="card-body">
+                  <div class="form-group">
+                    <label>Logo Image</label>
+                    <input type="file" name="FileImage">
+                    <input asp-for="LogoUrl" type="hidden" class="form-control" placeholder="EnterLogo Url" Value="@Model.LogoUrl">
+                    <input asp-for="Id" type="hidden" Value="@Model.Id">
+                  </div>
+                  <div class="form-group">
+                    <label>Author</label>   
+                    <input asp-for="Author" class="form-control" placeholder="Author" Value="@Model.Author">
+                  </div>
+                  <div class="form-group">
+                    <label>Meta Ticks</label>   
+                    <input asp-for="Meta" class="form-control" placeholder="Meta Ticks" Value="@Model.Meta">
+                  </div>
+                  <div class="form-group">
+                    <label>Meta Description</label>   
+                    <input asp-for="MetaDescription" class="form-control" placeholder="Meta Description" Value="@Model.Meta">
+                  </div>
+                  <div class="form-group">
+                    <label>Facebook</label>   
+                    <input asp-for="Facebook" class="form-control" placeholder="Facebook" Value="@Model.Facebook">
+                  </div>
+                  <div class="form-group">
+                    <label>Instagram</label>   
+                    <input asp-for="Instagram" class="form-control" placeholder="Instagram" Value="@Model.Instagram">
+                  </div>
+                  <div class="form-group">
+                    <label>Wp</label>   
+                    <input asp-for="Wp" class="form-control" placeholder="Wp" Value="@Model.Wp">
+                  </div>
+                  <div class="form-group">
+                    <label>Phone Number</label>   
+                    <input asp-for="PhoneNumber" class="form-control" placeholder="Phone Number" Value="@Model.PhoneNumber">
+                  </div>
+                 
+                  </div>
+                <!-- /.card-body -->
+
+                <div class="card-footer">
+                  <button type="submit" class="btn btn-primary">Add Main Category</button>
+                </div>
+              </form>
+                  </div>
+              
+              </div>
+            </div>
+</div>
+
+
+

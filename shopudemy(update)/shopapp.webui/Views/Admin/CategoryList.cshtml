@@ -1,0 +1,54 @@
+﻿@model CategoryViewModel
+@{
+    ViewData["Title"] = "CategoryList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-md-12">
+        <h1>Admin Categories</h1>
+        <hr>
+       
+        <div class="row">
+            <a class="btn btn-success btn-md" asp-controller="admin" asp-action="CategoryAdd">Category Add</a>
+            <div class="col-md-8">
+                @if (TempData["message"] != null)
+                {
+                    var message =  JsonSerializer.Deserialize<Message>(TempData["message"] as string);;
+                    <div class="alert alert-@message.MessageType">@message.MessageString</div>
+                }
+            </div>
+        </div>
+        <table class="table table-border">
+            <thead>
+                <tr>
+                    <td>Id</td>
+                    <td>Name</td>
+                    <td></td>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Categories.Count > 0)
+                {
+                       @foreach (var item in Model.Categories)
+               {
+                 <tr>
+                    <td>@item.CategoryId</td>
+                    <td>@item.Name</td>
+               
+                    <td>
+                        <a asp-controller="admin" asp-action="CategoryEdit" asp-route-id="@item.CategoryId" class="btn                            btn-dark">Edit</a>
+                        <form asp-controller="admin" asp-action="DeleteFromCategory" class="d-inline" method="post">
+                            <input type="hidden" name="ProductId" value="@item.CategoryId">
+                             
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+               }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+

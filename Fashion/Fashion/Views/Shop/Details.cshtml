@@ -1,0 +1,135 @@
+﻿@model ProductCategoryViewModel
+@{
+    ViewData["Title"] = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+        <section class="single_product_details_area section_padding_0_100">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-12 col-md-6">
+                        <div class="single_product_thumb">
+                            <div id="product_details_slider" class="carousel slide" data-ride="carousel">
+
+                                <ol class="carousel-indicators">
+                                    <li class="active" data-target="#product_details_slider" data-slide-to="0" style="background-image: url(img/product-img/@Model.product.ImgUrl");">
+                                    </li>
+                                </ol>
+
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active">
+                                        <a class="gallery_img" href="~/img/product-img/@Model.product.ImgUrl">
+                                        <img class="d-block w-100" src="~/img/product-img/@Model.product.ImgUrl" alt="@Model.product.Url">
+                                    </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-6">
+                        <div class="single_product_desc">
+
+                            <h4 class="title"><a href="#">@Model.product.Name</a></h4>
+
+                            <h4 class="price">@Model.product.Price</h4>
+
+                            <p class="available">Available: <span class="text-muted">@(Model.product.Stock>0?"Yes":"No")</span></p>
+
+                            <div class="widget size mb-50">
+                                <h6 class="widget-title">Size</h6>
+                                <div class="widget-desc">
+                                    <ul>
+                                           @foreach (var item in Model.product.ProductSize)
+                                {
+                                    if (item.Total > 0)
+                                    {
+                                        <li><a href="#">
+                                         
+                                        @item.Size
+
+                                        </a></li>
+                                    }
+                                }
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <!-- Add to Cart Form -->
+                            <form asp-controller="Cart" asp-action="AddCart" method="post">
+                                <input type="hidden"  name="ProductId" value="@Model.product.Id">
+                                <div class="quantity">
+                                    <span class="qty-minus" onclick="var effect = document.getElementById('qty'); var qty = effect.value; if( !isNaN( qty ) &amp;&amp; qty &gt; 1 ) effect.value--;return false;"><i class="fa fa-minus" aria-hidden="true"></i></span>
+                                    <input type="number" class="qty-text" id="qty" step="1" min="1" max="12" name="Quantity" value="1">
+                                    <span class="qty-plus" onclick="var effect = document.getElementById('qty'); var qty = effect.value; if( !isNaN( qty )) effect.value++;return false;"><i class="fa fa-plus" aria-hidden="true"></i></span>
+                                </div>
+                                <button type="submit" name="addtocart" value="5" class="btn cart-submit d-block">Add to cart</button>
+                    </form>
+<div id="accordion" role="tablist">
+                                <div class="card">
+                                    <div class="card-header" role="tab" id="headingOne">
+                                        <h6 class="mb-0">
+                                            <a data-toggle="collapse" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Information</a>
+                                        </h6>
+                                    </div>
+
+                                    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion">
+                                        <div class="card-body">
+                                            <p>@Html.Raw(Model.product.Description)</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- <<<<<<<<<<<<<<<<<<<< Single Product Details Area End >>>>>>>>>>>>>>>>>>>>>>>>> -->
+
+
+        <!-- ****** Quick View Modal Area End ****** -->
+
+        <section class="you_may_like_area clearfix">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="section_heading text-center">
+                            <h2>Populer Products</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="you_make_like_slider owl-carousel">
+
+                            <!-- Single gallery Item -->
+                           @foreach (var item in Model.PopulerProducts)
+                          {
+                               <div class="single_gallery_item">
+                                <!-- Product Image -->
+                                <div class="product-img">
+                                    <img src="~/img/product-img/@item.ImgUrl" alt="">
+                                    <div class="product-quicview">
+                                        <a href="#" data-toggle="modal" data-target="#quickview"><i class="ti-plus"></i></a>
+                                    </div>
+                                </div>
+                                <!-- Product Description -->
+                                <div class="product-description">
+                                    <h4 class="product-price">@item.Price</h4>
+                                    <p>@item.Name</p>
+                                    <!-- Add to Cart -->
+                                    <a asp-controller="Shop" asp-action="list" asp-route-url="@item.Url" class="add-to-cart-btn">Description</a>
+                                </div>
+                            </div>
+                          }
+
+                            <!-- Single gallery Item -->
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>

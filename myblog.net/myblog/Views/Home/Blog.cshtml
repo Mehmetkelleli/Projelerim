@@ -1,0 +1,97 @@
+﻿@model List<Post>
+@{
+    ViewBag.title = "Blog";
+    Layout = "~/Views/Shared/_BlogLayout.cshtml";
+}
+ <main class="web-main-slider">
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+	<!-- Full-width images with number and caption text -->
+	@for (int i = 0; i < Model.Count; i++)
+        {
+            int a = 0;
+            
+            if(@Model[i].Aktive == true){
+                    a += i;
+                <div class="mySlides fade">
+	  <div class="numbertext">@i / @a</div>
+	  <img src="~/blog/assets/img/@Model[i].Picture" style="width:100%;">
+	  <div class="text">
+		  <h1>@Model[i].Name</h1>
+		  <a href=""><button class="sl-button">Description</button></a>
+	  </div>
+
+	</div>
+           }
+        }
+ 
+  
+	<!-- Next and previous buttons -->
+	<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+	<a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
+  <br>
+  
+  <!-- The dots/circles -->
+  
+ </main>
+<!-- slider baslangı -->
+ <main class="web-main">
+<!-- Slideshow container -->
+ 	<div class="sol">
+ 	<h1>Blog Yazıları</h1>
+ 		@foreach (var item in Model)
+        {
+            <div class="card">
+	        <img src="~/blog/assets/img/@item.Picture">
+ 			<h3>@item.Name</h3>
+             
+ 			<a class="card-button" style="margin-bottom:20px" href="/home/blogdetails/@item.Id/">Open Post</a>
+             <hr>
+             <a style="color: #ff0266;
+    text-shadow: 1px 1px 10px #ff0266;
+    text-decoration: none;
+    display: block;" href="/home/blog/@item.Category.Id/">@item.Category.Name</a>
+ 		</div>
+        }
+
+ 	</div>
+ 	<div class="sag">
+ 		@await Component.InvokeAsync("Categories")
+ 		<div class="sidebar-content">
+ 			<h1>Son Yazılar</h1>
+ 			<span class="sidebar-hr"></span>
+ 			<ul>
+ 				<li><a href="">Yakında</a></li>
+ 				<li><a href="">Yakında</a></li>
+ 				<li><a href="">Yakında</a></li>
+ 				<li><a href="">Yakında</a></li>
+ 			</ul>
+ 		</div>
+ 		<div class="sidebar-content">
+ 			<h1>Beğenilenler</h1>
+ 			<span class="sidebar-hr"></span>
+ 			<ul>
+ 				<li><a href="">Yakında</a></li>
+ 				<li><a href="">Yakında</a></li>
+ 				<li><a href="">Yakında</a></li>
+ 				<li><a href="">Yakında</a></li>
+ 			</ul>
+ 		</div>
+ 	</div>
+
+
+
+ </main>
+<script type="text/javascript">
+	$('.custom1').owlCarousel({
+    animateOut: 'slideOutDown',
+    animateIn: 'flipInX',
+    items:1,
+    margin:30,
+    stagePadding:30,
+    smartSpeed:450
+});
+</script>
+<script src="~/blog/slider.js" type="text/javascript"></script>

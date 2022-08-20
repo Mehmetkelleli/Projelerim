@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\entity\Fashion.entity.csproj" />
+    <ProjectReference Include="..\Fashion.Data\Fashion.Data.csproj" />
+  </ItemGroup>
+
+</Project>

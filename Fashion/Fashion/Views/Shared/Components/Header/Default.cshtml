@@ -1,0 +1,99 @@
+﻿@model SiteConfig
+@{
+    int total = 0;
+    int Quantity = 0;
+    if(TempData["Cart"] != null)
+    {
+        Cart Cart = (Cart) TempData["Cart"];
+
+        foreach (var item in Cart.CartItems)
+        {
+            total += item.Product.Price;
+            Quantity++;
+        }
+    }
+}
+@section Meta
+    {
+          <meta name="description" content="@Model.MetaDescription">
+          <meta name="keywords" content="@Model.Meta">
+          <meta name="author" content="@Model.Author">
+    }
+ <header class="header_area">
+            <!-- Top Header Area Start -->
+            <div class="top_header_area">
+                <div class="container h-100">
+                    <div class="row h-100 align-items-center justify-content-end">
+
+                        <div class="col-12 col-lg-7">
+                            <div class="top_single_area d-flex align-items-center">
+                                <!-- Logo Area -->
+                                <div class="top_logo">
+                                        <a href="#"><img src="~/img/core-img/@Model.LogoUrl" alt="@Model.Author"></a>
+                                </div>
+                                <!-- Cart & Menu Area -->
+                                <div class="header-cart-menu d-flex align-items-center ml-auto">
+                                    <!-- Cart Area -->
+                                @if (User.Identity.IsAuthenticated)
+                            {
+                                <div class="cart">
+                                        <a asp-controller="Cart" asp-action="index" id="header-cart-btn"><span class="cart_quantity">@Quantity</span> <i class="ti-bag"></i> @total</a>
+                                        <!-- Cart List Area Start -->
+                                        <ul class="cart-list">
+                                           @if(TempData["Cart"] != null){
+                                                @foreach (var item in ((Cart) TempData["Cart"]).CartItems)
+                                           {
+                                        if(item != null)
+                                        {
+                                             <li>
+                                                <a class="image"><img src="~/img/product-img/@item.Product.ImgUrl" class="cart-thumb" alt=""></a>
+                                                <div class="cart-item-desc">
+                                                    <h6><a href="#">@item.Product.Name</a></h6>
+                                                    <p>@item.Quantity<span class="price">@(item.Product.Price*item.Quantity)</span></p>
+                                                </div>
+                                                <span class="dropdown-product-remove"><i class="icon-cross"></i></span>
+                                            </li>
+                                        }
+                                    } 
+                                            <li class="total">
+                                                
+                                                <a asp-controller="Cart" asp-action="index" class="btn btn-sm btn-cart">Cart</a>
+                                            </li>
+                                            }
+                                            
+                                        </ul>
+                                    </div>
+                            }
+                            <div class="header-right-side-menu ml-15">
+                                        <a href="#" id="sideMenuBtn"><i class="ti-menu" aria-hidden="true"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <!-- Top Header Area End -->
+            <div class="main_header_area">
+                <div class="container h-100">
+                    <div class="row h-100">
+                        <div class="col-12 d-md-flex justify-content-between">
+                            <!-- Header Social Area -->
+                            <div class="header-social-area">
+                                <a href="@Model.Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                <a href="@Model.Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                <a href="@Model.Wp"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+                            </div>
+                            <!-- Menu Area -->
+                            @await Component.InvokeAsync("Navbar")
+                            <!-- Help Line -->
+                            <div class="help-line">
+                                <a href="tel:@Model.PhoneNumber"><i class="ti-headphone-alt"></i> @Model.PhoneNumber</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>

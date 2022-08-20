@@ -1,0 +1,532 @@
+C:\Users\sadikturan\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sadikturan\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sadikturan\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
+C:\Users\sadikturan\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sadikturan\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
+C:\Users\sadikturan\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
+C:\Users\sadikturan\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
+C:\Users\sadikturan\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
+C:\Users\sadikturan\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
+C:\Users\sadikturan\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
+C:\Users\sadikturan\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
+C:\Users\sadikturan\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
+C:\Users\sadikturan\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
+C:\Users\sadikturan\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sadikturan\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+C:\Users\sadikturan\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+C:\Users\sadikturan\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
+C:\Users\sadikturan\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+C:\Users\sadikturan\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\15-Partial View\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\17-Passing Data to Partial Views\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\18-View Components\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\19-Layout\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package-lock.json
+E:\OneDrive\kurslar\komple web geliştirme\update\2-Asp.Net Core Mvc-1.Seviye\21-Static Files\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package-lock.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\3-Asp.Net Core Mvc-2.Seviye\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package-lock.json
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package.json
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.xml
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
+E:\OneDrive\kurslar\komple web geliştirme\update\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package.json
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sadikturan\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\global.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.exe
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.deps.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.runtimeconfig.dev.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.data.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.entity.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.data.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.entity.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorAssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\shopapp.webui.StaticWebAssets.Manifest.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.input.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.TagHelpers.output.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorCoreGenerate.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.RazorTargetAssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.Views.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.CopyComplete
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.genruntimeconfig.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.business.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.business.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shop\List.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductList.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductCreate.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductEdit.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryCreate.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryEdit.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryList.cshtml.g.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs

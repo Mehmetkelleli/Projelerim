@@ -1,0 +1,14 @@
+﻿@model List<MainCategory>
+@foreach (var item in Model)
+                                           {
+                                           <li data-toggle="collapse" data-target="#mx_@item.Id" class="collapsed">
+                                                <a href="#">@item.Name</a>
+                                                <ul class="sub-menu collapse" id="mx_@item.Id">
+                                                    @foreach (var i in item.Categories)
+                                                   {
+                                                       <li><a asp-controller="shop" asp-action="list" asp-route-url="@i.Url">@i.Name</a></li>
+                                                   }
+
+                                                </ul>
+                                            </li>
+                                           }

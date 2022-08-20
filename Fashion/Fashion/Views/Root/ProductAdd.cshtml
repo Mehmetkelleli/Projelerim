@@ -1,0 +1,62 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "ProductAdd";
+    Layout = "~/Views/Shared/_LayoutRoot.cshtml";
+}
+<div class="col-md-9">
+    <div class="card card-primary mt-5">
+              <div class="card-header">
+                <h3 class="card-title">Product Add</h3>
+              </div>
+              <!-- /.card-header -->
+              <!-- form start -->
+              <div class="row">
+                  <div class="col-md-6">
+                      <form asp-controller="Root" asp-action="ProductAdd" method="post" enctype="multipart/form-data">
+                <div class="card-body">
+                  <div class="form-group">
+                    <label>Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter Name" Value="@Model.Name">
+                  </div>
+                  <div class="form-group">
+                    <label>Seo Url</label>
+                    <input asp-for="Url" class="form-control" placeholder="Enter Seo" Value="@Model.Url">
+                  </div>
+                  <div class="form-group">
+                    <label>Description</label>
+                    <textarea asp-for="Description" id="editor" class="form-control"></textarea>
+                  </div>
+                  <div class="form-group">
+                    <label>Price</label>
+                    <input asp-for="Price" class="form-control" placeholder="" Value="@Model.Price">
+                  </div>
+                  <div class="form-group">
+                    <label>Stock</label>
+                    <input asp-for="Stock" class="form-control" placeholder="" Value="@Model.Stock">
+                  </div>
+                  <div class="form-group">
+                    <label>İmg Url</label>
+                    <input type="hidden" asp-for="ImgUrl" class="form-control" placeholder="Enter Img Url" Value="@Model.ImgUrl">
+                    <input type="file" name="FileImg">
+                  </div>
+                  <div class="form-group">
+                    <label>Is Home</label>
+                    <input asp-for="IsHome" class="form-control">
+                  </div>
+                  <div class="form-group">
+                    <label>Color</label>
+                    <Select asp-for="ColorId" asp-items="@ViewBag.ColorList"></Select>
+                  </div>
+                </div>
+                <!-- /.card-body -->
+
+                <div class="card-footer">
+                  <button type="submit" class="btn btn-primary">Add Product</button>
+                </div>
+              </form>
+                  </div>
+              <div class="col-md-6"></div>
+              </div>
+            </div>
+</div>
+

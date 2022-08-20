@@ -1,0 +1,10 @@
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.entity\bin\Debug\netcoreapp3.1\shopapp.entity.deps.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.entity\bin\Debug\netcoreapp3.1\shopapp.entity.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.entity\bin\Debug\netcoreapp3.1\shopapp.entity.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.entity\obj\Debug\netcoreapp3.1\shopapp.entity.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.entity\obj\Debug\netcoreapp3.1\shopapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.entity\obj\Debug\netcoreapp3.1\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.entity\obj\Debug\netcoreapp3.1\shopapp.entity.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.entity\obj\Debug\netcoreapp3.1\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.entity\obj\Debug\netcoreapp3.1\shopapp.entity.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\shopudemy(update)\shopapp.entity\obj\Debug\netcoreapp3.1\shopapp.entity.pdb

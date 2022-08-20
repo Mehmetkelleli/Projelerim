@@ -1,0 +1,19 @@
+﻿@model Setting
+@{
+	TempData["meta"] = Model.Meta;
+}
+<nav class="menu" id="scroll">
+		<div class="logo"><h1>@Model.Logo</h1></div>
+		<ul>
+			<li><a href="/home/">Home</a></li>
+			<li><a onclick="iltac()">Support</a></li>
+			<li><a href="/home/blog/">Blog</a></li>
+			<li><a href="/home/About/">About</a></li>
+
+		</ul>
+		<button class="nav-buton" onclick="menuac()"><i class="fa fa-bars"></i></button>
+		<form action="/home/blog/">
+			<button type="submit"><i class="fa fa-search"></i></button>
+			<input type="text" name="search" value="Srch">
+		</form>
+	</nav>

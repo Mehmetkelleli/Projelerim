@@ -1,0 +1,17 @@
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\bin\Debug\net5.0\muhasebe.business.deps.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\bin\Debug\net5.0\muhasebe.business.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\bin\Debug\net5.0\muhasebe.business.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\bin\Debug\net5.0\muhasebe.data.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\bin\Debug\net5.0\muhasebe.entity.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\bin\Debug\net5.0\muhasebe.data.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\bin\Debug\net5.0\muhasebe.entity.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\obj\Debug\net5.0\muhasebe.business.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\obj\Debug\net5.0\muhasebe.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\obj\Debug\net5.0\muhasebe.business.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\obj\Debug\net5.0\muhasebe.business.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\obj\Debug\net5.0\muhasebe.business.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\obj\Debug\net5.0\muhasebe.business.csproj.CopyComplete
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\obj\Debug\net5.0\muhasebe.business.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\obj\Debug\net5.0\refint\muhasebe.business.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\obj\Debug\net5.0\muhasebe.business.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\muhasebe\muhasebe.business\obj\Debug\net5.0\ref\muhasebe.business.dll

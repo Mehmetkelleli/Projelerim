@@ -1,0 +1,67 @@
+﻿@model Register
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="col-md-8">
+    
+<h1>Register</h1>
+<hr>
+<form asp-controller="account" asp-action="register" method="Post">
+  <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">Name</label>
+    <div class="col-sm-10">
+      <input  class="form-control" asp-for="Name" value="@Model.Name">
+      <span class="text-alert" asp-validation-for="Name"></span>
+    </div>
+  </div>
+    <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">Last Name</label>
+    <div class="col-sm-10">
+      <input class="form-control" asp-for="LastName" value="@Model.LastName">
+      <span class="text-alert" asp-validation-for="LastName"></span>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">UserName</label>
+    <div class="col-sm-10">
+      <input class="form-control" asp-for="UserName" value="@Model.UserName">
+      <span class="text-alert" asp-validation-for="UserName"></span>
+    </div>
+  </div>
+   <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">E Mail</label>
+    <div class="col-sm-10">
+      <input class="form-control" asp-for="EMail" value="@Model.EMail">
+      <span class="text-alert" asp-validation-for="EMail"></span>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">Phone Number</label>
+    <div class="col-sm-10">
+      <input class="form-control" asp-for="PhoneNumber" value="@Model.PhoneNumber">
+      <span class="text-alert" asp-validation-for="PhoneNumber"></span>
+    </div>
+  </div>
+   <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">Password</label>
+    <div class="col-sm-10">
+      <input class="form-control" asp-for="Password" value="@Model.Password">
+      <span class="text-alert" asp-validation-for="Password"></span>
+    </div>
+  </div>
+   <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">Re Password</label>
+    <div class="col-sm-10">
+      <input class="form-control" asp-for="RePassword" value="@Model.RePassword">
+      <span class="text-alert" asp-validation-for="RePassword"></span>
+    </div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-10 offset-sm-2 ">
+        <button class="btn btn-danger" type="submit">Register</button>
+    </div>
+  </div>
+</form>
+</div>
+

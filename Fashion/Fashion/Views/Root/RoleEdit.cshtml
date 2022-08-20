@@ -1,0 +1,56 @@
+﻿@model RoleDetails
+@{
+    ViewData["Title"] = "RoleEdit";
+    Layout = "~/Views/Shared/_LayoutRoot.cshtml";
+}
+<div class="col-md-9">
+    <form asp-controller="Root" method="post">
+
+    <div class="card card-primary mt-5 ml-3">
+              <div class="card-header">
+                <h3 class="card-title">Role Edit</h3>
+              </div>
+              <!-- /.card-header -->
+              <!-- form start -->
+              <div class="row">
+           
+              <div class="col-md-6">
+                         
+                  <div class="card-body">
+                  <div class="form-group">
+                    <label>Role Name</label>
+                    <input Name="Name" class="form-control" value="@Model.Role.Name">
+                    <input type="hidden" name="Id" value="@Model.Role.Id">
+                  </div>
+              <button type="submit" class="btn btn-primary">Edit Role</button>    
+              </div>
+               </div>
+              
+               <div class="col-md-6">
+                        <h5 class="mt-2">Non Members</h5>
+                        <table class="table">
+                            @foreach (var item in @Model.NonMember)
+                           {
+                               <tr>
+                                <td>@item.Name @item.LastName</td>
+                                <td>@item.Email</td>
+                                <td><input type="checkbox" name="MembersAdd" value="@item.Id"></td>
+                               </tr>
+                           }
+                        </table>
+                        <h5>Members</h5>
+                        <table class="table">
+                            @foreach (var item in @Model.Members)
+                           {
+                               <tr>
+                                <td>@item.Name @item.LastName</td>
+                                <td>@item.Email</td>
+                                <td><input type="checkbox" name="MembersDelete" value="@item.Id"></td>
+                               </tr>
+                           }
+                        </table>
+               </div>
+              </div>
+            </div>
+</form>
+</div>

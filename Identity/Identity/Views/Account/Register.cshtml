@@ -1,0 +1,55 @@
+﻿@model Register
+@{
+    ViewData["Title"] = "Register";
+}
+<div class="col-md-8">
+    
+<h1>Register</h1>
+<hr>
+<form asp-controller="account" asp-action="register" method="Post">
+  <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">User Name</label>
+    <div class="col-sm-10">
+      <input class="form-control" asp-for="Username" value="@Model.Username">
+      <span class="text-danger" asp-validation-for="Username"></span>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">Name</label>
+    <div class="col-sm-10">
+      <input type="text"  class="form-control" asp-for="Name" value="@Model.Name">
+      <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">Last Name</label>
+    <div class="col-sm-10">
+      <input class="form-control" asp-for="LastName" value="@Model.LastName">
+      <span class="text-danger" asp-validation-for="LastName"></span>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">Password</label>
+    <div class="col-sm-10">
+      <input class="form-control" asp-for="Password" value="@Model.Password">
+      <span class="text-danger" asp-validation-for="Password"></span>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">Re Password</label>
+    <div class="col-sm-10">
+      <input class="form-control" asp-for="RePassword" value="@Model.RePassword">
+      <span class="text-danger" asp-validation-for="RePassword"></span>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label  class="col-sm-2 col-form-label">E Mail</label>
+    <div class="col-sm-10">
+      <input class="form-control" asp-for="Mail" value="@Model.Mail">
+      <span class="text-danger" asp-validation-for="Mail"></span>
+    </div>
+  </div>
+  <button class="btn btn-success" type="submit">Registers</Button>
+</form>
+</div>
+

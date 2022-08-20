@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.title = "Home";
+    Layout = "~/Views/Shared/_BlogLayout.cshtml";
+}
+@model Setting
+<header class="header-content">
+		<h2 style="z-index: 10;color: white;">@Model.HomePageTitle</h2>
+		<p>@Model.HomePageContent</p>
+		<button onclick="iltac()" class="content-buton">Support</button>
+</header>
+<!-- kanvas baslangıc	 -->
+ <canvas class="background"></canvas>

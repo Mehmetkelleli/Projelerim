@@ -1,0 +1,64 @@
+﻿@model Userdetails
+@{
+    ViewData["Title"] = "User Details";
+    Layout = "~/Views/Shared/_LayoutRoot.cshtml";
+}
+<div class="col-md-9">
+    <div class="card card-primary mt-5">
+              <div class="card-header">
+                <h3 class="card-title">User Details</h3>
+              </div>
+              <!-- /.card-header -->
+              <!-- form start -->
+              <form asp-controller="Root" asp-action="UserDetails" method="post" >
+              <div class="row">
+                  <div class="col-md-6">
+                     
+                <div class="card-body">
+                  <div class="form-group">
+                    <label>Name</label>
+                    <input asp-for="User.Name" class="form-control" placeholder="Enter Name" Value="@Model.User.Name">
+                    <input type="hidden" asp-for="User.Id" Value="@Model.User.Id">
+                  </div>
+                  <div class="form-group">
+                    <label>Last Name</label>
+                    <input asp-for="User.LastName" class="form-control" placeholder="Enter Last Name" Value="@Model.User.LastName">
+                  </div>
+                  <div class="form-group">
+                    <label>User Name</label>
+                    <input asp-for="User.UserName"  class="form-control" placeholder="UserName" Value="@Model.User.UserName">
+                  </div>
+                  <div class="form-group">
+                    <label>E Mail</label>
+                    <input asp-for="User.Email" class="form-control" placeholder="enter E Mail" Value="@Model.User.Email">
+                  </div>
+                  
+                  <div class="form-group">
+                    <label for="@Model.User.EmailConfirmed">E Mail Confirm</label>
+                    <input asp-for="User.EmailConfirmed" type="checkbox"  class="form-control">
+                  </div>
+                </div>
+                <!-- /.card-body -->
+
+                <div class="card-footer">
+                  <button type="submit" class="btn btn-primary">Edit User</button>
+                </div>
+                    
+                  </div>
+              <div class="col-md-6 mt-5">
+               <h5>Roller</h5>
+               <hr>
+              @foreach (var item in ViewBag.Roles)
+                   {
+                    <div class="form-check">
+                       <input class="form-check-input" name="UserRoles" type="checkbox" value="item" @(Model.UserRoles.Any(i=>i==item)?"checked":"")>
+                       <label class="form-check-label" for="@item">
+                        @item
+                       </label>
+                    </div>
+                   }
+              </div>
+              </form>
+
+            </div>
+</div>

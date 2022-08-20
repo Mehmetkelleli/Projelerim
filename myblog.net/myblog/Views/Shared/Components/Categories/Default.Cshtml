@@ -1,0 +1,11 @@
+﻿@model List<Category>
+<div class="sidebar-content">
+ 			<h1>Categories</h1>
+ 			<span class="sidebar-hr"></span>
+ 			<ul>
+ 				@foreach (var item in Model)
+    {
+        <li><a href="/home/blog/@item.Id">@item.Name</a></li>
+    }
+ 			</ul>
+ </div>

@@ -1,0 +1,20 @@
+﻿@model My
+
+<div class="iletisim" id="ilt">
+	<div class="box-i">
+		<button class="bbutton" onclick="iltkapat()"><i class="fa fa-times" aria-hidden="true"></i></button>
+		<img src="@Model.İmgUrl" alt="">
+		<div class="bilgi">
+			<h1>@Model.Name</h1>
+			<br>
+			<h3>@Model.School</h3>
+			<br>
+			<p>@Model.Job</p>
+		</div>
+	</div>
+	<div class="social">
+		<a href="@Model.Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+		<a href="@Model.Wp"><i class="fa-brands fa-whatsapp"></i></a>
+		<a href="@Model.İnstagram"><i class="fa-brands fa-instagram"></i></a>
+	</div>
+</div>

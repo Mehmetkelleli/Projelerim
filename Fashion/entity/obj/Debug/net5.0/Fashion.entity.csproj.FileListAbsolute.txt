@@ -1,0 +1,12 @@
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\entity\bin\Debug\net5.0\Fashion.entity.deps.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\entity\bin\Debug\net5.0\Fashion.entity.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\entity\bin\Debug\net5.0\Fashion.entity.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\entity\obj\Debug\net5.0\Fashion.entity.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\entity\obj\Debug\net5.0\Fashion.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\entity\obj\Debug\net5.0\Fashion.entity.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\entity\obj\Debug\net5.0\Fashion.entity.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\entity\obj\Debug\net5.0\Fashion.entity.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\entity\obj\Debug\net5.0\Fashion.entity.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\entity\obj\Debug\net5.0\refint\Fashion.entity.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\entity\obj\Debug\net5.0\Fashion.entity.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\entity\obj\Debug\net5.0\ref\Fashion.entity.dll

@@ -1,0 +1,106 @@
+﻿
+@model ProductCategoryViewModel
+@{
+    ViewData["Title"] = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+        <!-- ****** Quick View Modal Area Start ****** -->
+
+        <!-- ****** Quick View Modal Area End ****** -->
+
+        <section class="shop_grid_area section_padding_100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-4 col-lg-3">
+                        <div class="shop_sidebar_area">
+                           
+                            <div class="widget catagory mb-50">
+                                <!--  Side Nav  -->
+                                <div class="nav-side-menu">
+                                    <h6 class="mb-0">Catagories</h6>
+                                    <div class="menu-list">
+                                        <ul id="menu-content2" class="menu-content collapse out">
+                                            <!-- Single Item -->
+                                           
+                                            <!-- Single Item -->
+                                           @await Html.PartialAsync("_Category",Model.MainCategories)
+                                            <!-- Single Item -->
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="widget price mb-50 row">
+                                <h6 class="widget-title mb-30">Filter by Price</h6>
+                                <div class="widget-desc">
+                                <form asp-controller="Shop" asp-action="List" method="get">
+                                    <div class="form-group">
+                                        <label >Min Price</label>
+                                        <input type="number" class="form-control col-8" name="min_price" placeholder="Enter Price">
+                                    </div>
+                                    <div class="form-group">
+                                        <label >Max Price</label>
+                                        <input type="number" class="form-control col-8" name="max_price" placeholder="Enter Price">
+                                    </div>
+                                    <button type="submit" class="mt-3 p-2" style="
+    color: #ff084e;
+    border: 2px solid #ff084e;
+    background-color: transparent;
+" href="#">Set Price</button></li>
+                                </form>
+                                </div>
+                            </div>
+                            <h4>@ViewBag.Category</h4>
+                            <div class="widget color mb-70">
+                                <h6 class="widget-title mb-30">Filter by Color</h6>
+                                <div class="widget-desc">
+                                    <ul class="d-flex justify-content-between">
+                                        @foreach (var item in (List<Color>)ViewData["Colors"])
+                                       {
+                                        <li style="background-color=@item.ColorCode"><a href="@(ViewBag.Category==null?$"/Products?ColorId={item.Id}":$"/Products/{ViewBag.Category}?ColorId={item.Id}")"></a></li>
+                                       }
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-8 col-lg-9">
+                        <div class="shop_grid_product_area">
+                            <div class="row">
+                        @if (Model.Product.Count > 0)
+                        {
+                            foreach (var item in Model.Product)
+                            {
+                                @await Html.PartialAsync("_Product",item)
+                            }
+                        }
+                        else
+                        {
+                            <div class="alert-danger">Ürün Yok</div>
+                        }
+                    </div>
+                        </div>
+
+                        <div class="shop_pagination_area wow fadeInUp" data-wow-delay="1.1s">
+                            <nav aria-label="Page navigation">
+                                <ul class="pagination pagination-sm">
+                                   @for (int i = 0; i < Model.Page.TotalPage(); i++)
+                                    {
+                                        if(!string.IsNullOrEmpty(Model.Page.CurrentCategory)){
+                                             <li class="page-item @(Model.Page.CurrentPage==(i+1)?"active":"")"><a href="/Products/@Model.Page.CurrentCategory?page=@(i+1)" class="page-link" href="#">@(i+1)</a></li>
+                                        }
+                                        else{
+                                             <li class="page-item @(Model.Page.CurrentPage==(i+1)?"active":"")"><a href="/Products/@Model.Page.CurrentCategory?page=@(i+1)" class="page-link" href="#">@(i+1)</a></li>
+                                        }
+                                    }
+                                </ul>
+                            </nav>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>

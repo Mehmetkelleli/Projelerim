@@ -1,0 +1,34 @@
+﻿@model RoleModel
+@{
+    ViewData["Title"] = "Role Create";
+    Layout = "~/Views/Shared/_LayoutRoot.cshtml";
+}
+<div class="col-md-9">
+    <div class="card card-primary mt-5 ml-3">
+              <div class="card-header">
+                <h3 class="card-title">Role Add</h3>
+              </div>
+              <!-- /.card-header -->
+              <!-- form start -->
+              <div class="row">
+                  <div class="col-md-3"></div>
+                  <div class="col-md-9">
+                      <form asp-controller="Root" asp-action="RoleCreate" method="post">
+                  <div class="card-body">
+                  <div class="form-group">
+                    <label>Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="Enter Role Name">
+                  </div>
+                  </div>
+                <!-- /.card-body -->
+
+                <div class="card-footer">
+                  <button type="submit" class="btn btn-primary">Add Role</button>
+                </div>
+              </form>
+                  </div>
+              
+              </div>
+            </div>
+</div>
+

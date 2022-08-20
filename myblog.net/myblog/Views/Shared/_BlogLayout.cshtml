@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<!-- meta etikeleri ve baslık -->
+	<title>@ViewBag.title</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	@await Component.InvokeAsync("Setting")
+	<!-- css fontlar cagırılıyor -->
+	<link rel="stylesheet" type="text/css" href="~/blog/assets/css/main.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Oswald:wght@300&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<!-- scriptler ekleniyor -->
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.2.3/particles.min.js"></script>
+	<script type="text/javascript" src="~/blog/assets/js/main.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js" integrity="sha512-fzff82+8pzHnwA1mQ0dzz9/E0B+ZRizq08yZfya66INZBz86qKTCt9MLU0NCNIgaMJCgeyhujhasnFUsYMsi0Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<link rel="stylesheet" href="~/blog/assets/css/owl-slider-my.css">
+
+</head>
+<body>
+@await Component.InvokeAsync("Navbar")
+@RenderBody()
+ <!-- kanvas bitis -->
+
+ 
+<!-- acılır menu kısmı -->
+<div id="full-menu">
+	<button class="bbutton" onclick="menukapat()"><i class="fa fa-times" aria-hidden="true"></i></button>
+	<ul>
+		<li>
+			<a href="/home/">Home</a>
+			<span></span>
+		</li>
+
+		<li>
+			<a onclick="menukapat();iltac()">Support</a>
+			<span></span>
+		</li>
+		<li>
+			<a href="/home/blog/">Blog</a>
+			<span></span>
+		</li>
+		<li>
+			<a href="/home/about/">About</a>
+			<span></span>
+		</li>
+	</ul>
+</div>
+@await Component.InvokeAsync("Support")
+
+
+<script type="text/javascript">
+	console.log("eğer biri okuyorsa tüm kodlar  el emeğidir :)")
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 60 || document.documentElement.scrollTop > 60) {
+
+         document.getElementById("scroll").style.background = "#2d3436";
+         document.getElementById("scroll").style.padding = "20px 3%";
+         
+
+
+
+  } else {
+     document.getElementById("scroll").style.background = "transparent";
+     document.getElementById("scroll").style.padding = "30px 4%";
+  }
+} 
+</script>
+</body>
+</html>

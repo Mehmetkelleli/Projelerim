@@ -1,0 +1,12 @@
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\api1\Api.Core\bin\Debug\net5.0\Api.Core.deps.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\api1\Api.Core\bin\Debug\net5.0\Api.Core.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\api1\Api.Core\bin\Debug\net5.0\Api.Core.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\api1\Api.Core\obj\Debug\net5.0\Api.Core.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\api1\Api.Core\obj\Debug\net5.0\Api.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\api1\Api.Core\obj\Debug\net5.0\Api.Core.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\api1\Api.Core\obj\Debug\net5.0\Api.Core.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\api1\Api.Core\obj\Debug\net5.0\Api.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\api1\Api.Core\obj\Debug\net5.0\Api.Core.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\api1\Api.Core\obj\Debug\net5.0\refint\Api.Core.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\api1\Api.Core\obj\Debug\net5.0\Api.Core.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\api1\Api.Core\obj\Debug\net5.0\ref\Api.Core.dll

@@ -1,0 +1,12 @@
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\WebApi\Web.Entity\bin\Debug\net5.0\Web.Entity.deps.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\WebApi\Web.Entity\bin\Debug\net5.0\Web.Entity.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\WebApi\Web.Entity\bin\Debug\net5.0\Web.Entity.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\WebApi\Web.Entity\obj\Debug\net5.0\Web.Entity.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\WebApi\Web.Entity\obj\Debug\net5.0\Web.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\WebApi\Web.Entity\obj\Debug\net5.0\Web.Entity.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\WebApi\Web.Entity\obj\Debug\net5.0\Web.Entity.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\WebApi\Web.Entity\obj\Debug\net5.0\Web.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\WebApi\Web.Entity\obj\Debug\net5.0\Web.Entity.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\WebApi\Web.Entity\obj\Debug\net5.0\refint\Web.Entity.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\WebApi\Web.Entity\obj\Debug\net5.0\Web.Entity.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\NetApiDersleri\WebApi\Web.Entity\obj\Debug\net5.0\ref\Web.Entity.dll

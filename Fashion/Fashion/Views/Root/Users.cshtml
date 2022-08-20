@@ -1,0 +1,64 @@
+﻿@model IEnumerable<User>
+@{
+    ViewData["Title"] = "Users";
+    Layout = "~/Views/Shared/_LayoutRoot.cshtml";
+}
+
+<div class="col-md-10">
+          <div class="col-9 ml-1 mt-5">
+            <div class="card">
+              <div class="card-header">
+                <h3 class="card-title">Category List</h3>
+
+                <div class="card-tools">
+                  <div class="input-group input-group-sm" style="width: 150px;">
+                    <input type="text" name="table_search" class="form-control float-right" placeholder="Search">
+
+                    <div class="input-group-append">
+                      <button type="submit" class="btn btn-default">
+                        <i class="fas fa-search"></i>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- /.card-header -->
+              <div class="card-body table-responsive p-0">
+                <table class="table table-head-fixed text-nowrap">
+                  <thead>
+                    <tr>
+                      <th>Name</th>
+                      <th>Last Name</th>
+                      <th>E Mail</th>
+                      <th>User Name</th>
+                      <th>E Mail Confirm</th>
+                      <td></td>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    @foreach (var item in Model)
+                   {
+                    <tr class="@(!item.EmailConfirmed?"bg-warning":"")">
+                      <td>@item.Name</td>
+                      <td>@item.LastName</td>
+                      <td>@item.Email</td>
+                      <td>@item.UserName</td>
+                      <td>@item.EmailConfirmed</td>
+                      <td>
+                        <a asp-controller="Root" asp-action="UserDetails" asp-route-id="@item.Id"><button class="btn btn-success">Edit</button></a>
+                        <form asp-controller="root" asp-action="UserDelete">
+                           <input type="hidden" name="id" value="@item.Id">
+                           <button type="submit" class="btn btn-danger">Delete</button>
+                         </form>
+                       </td>
+                    </tr>
+                   }
+                  </tbody>
+                </table>
+              </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+          </div>
+        </div>
+

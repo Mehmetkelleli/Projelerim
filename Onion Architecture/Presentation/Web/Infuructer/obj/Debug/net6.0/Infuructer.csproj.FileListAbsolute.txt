@@ -1,0 +1,12 @@
+C:\Users\Mehmet Kelleli\Desktop\myblog\Onion Architecture\Presentation\Web\Infuructer\bin\Debug\net6.0\Infuructer.deps.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\Onion Architecture\Presentation\Web\Infuructer\bin\Debug\net6.0\Infuructer.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\Onion Architecture\Presentation\Web\Infuructer\bin\Debug\net6.0\Infuructer.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\Onion Architecture\Presentation\Web\Infuructer\obj\Debug\net6.0\Infuructer.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\Onion Architecture\Presentation\Web\Infuructer\obj\Debug\net6.0\Infuructer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\myblog\Onion Architecture\Presentation\Web\Infuructer\obj\Debug\net6.0\Infuructer.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\Onion Architecture\Presentation\Web\Infuructer\obj\Debug\net6.0\Infuructer.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\Onion Architecture\Presentation\Web\Infuructer\obj\Debug\net6.0\Infuructer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\Onion Architecture\Presentation\Web\Infuructer\obj\Debug\net6.0\Infuructer.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\Onion Architecture\Presentation\Web\Infuructer\obj\Debug\net6.0\refint\Infuructer.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\Onion Architecture\Presentation\Web\Infuructer\obj\Debug\net6.0\Infuructer.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\Onion Architecture\Presentation\Web\Infuructer\obj\Debug\net6.0\ref\Infuructer.dll

@@ -1,0 +1,30 @@
+﻿@model List<MainCategory>
+    <div class="catagories-side-menu">
+        <!-- Close Icon -->
+        <div id="sideMenuClose">
+            <i class="ti-close"></i>
+        </div>
+        <!--  Side Nav  -->
+        <div class="nav-side-menu">
+            <div class="menu-list">
+                <h6>Categories</h6>
+                <ul id="menu-content" class="menu-content collapse out">
+                    <!-- Single Item -->
+                    @foreach (var item in Model)
+                   {
+                     <li data-toggle="collapse" data-target="#mx1_@item.Id" class="collapsed">
+                                                <a href="#">@item.Name</a>
+                                                <ul class="sub-menu collapse" id="mx1_@item.Id">
+                                                    @foreach (var i in item.Categories)
+                                                   {
+                                                       <li><a asp-controller="shop" asp-action="list" asp-route-url="@i.Url">@i.Name</a></li>
+                                                   }
+
+                                                </ul>
+                                            </li>
+                   }
+                    <!-- Single Item -->
+                </ul>
+            </div>
+        </div>
+    </div>

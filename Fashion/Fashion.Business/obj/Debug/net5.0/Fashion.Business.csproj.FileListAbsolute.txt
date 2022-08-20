@@ -1,0 +1,17 @@
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\bin\Debug\net5.0\Fashion.Business.deps.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\bin\Debug\net5.0\Fashion.Business.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\bin\Debug\net5.0\Fashion.Business.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\bin\Debug\net5.0\Fashion.Data.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\bin\Debug\net5.0\Fashion.entity.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\bin\Debug\net5.0\Fashion.entity.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\bin\Debug\net5.0\Fashion.Data.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\obj\Debug\net5.0\Fashion.Business.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\obj\Debug\net5.0\Fashion.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\obj\Debug\net5.0\Fashion.Business.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\obj\Debug\net5.0\Fashion.Business.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\obj\Debug\net5.0\Fashion.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\obj\Debug\net5.0\Fashion.Business.csproj.CopyComplete
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\obj\Debug\net5.0\Fashion.Business.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\obj\Debug\net5.0\refint\Fashion.Business.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\obj\Debug\net5.0\Fashion.Business.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\Fashion\Fashion.Business\obj\Debug\net5.0\ref\Fashion.Business.dll

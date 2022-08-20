@@ -1,0 +1,12 @@
+C:\Users\Mehmet Kelleli\Desktop\myblog\GenericWeb\GenericWeb.Business\bin\Debug\net5.0\GenericWeb.Business.deps.json
+C:\Users\Mehmet Kelleli\Desktop\myblog\GenericWeb\GenericWeb.Business\bin\Debug\net5.0\GenericWeb.Business.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\GenericWeb\GenericWeb.Business\bin\Debug\net5.0\GenericWeb.Business.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\GenericWeb\GenericWeb.Business\obj\Debug\net5.0\GenericWeb.Business.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\GenericWeb\GenericWeb.Business\obj\Debug\net5.0\GenericWeb.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\Desktop\myblog\GenericWeb\GenericWeb.Business\obj\Debug\net5.0\GenericWeb.Business.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\GenericWeb\GenericWeb.Business\obj\Debug\net5.0\GenericWeb.Business.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\Desktop\myblog\GenericWeb\GenericWeb.Business\obj\Debug\net5.0\GenericWeb.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\Desktop\myblog\GenericWeb\GenericWeb.Business\obj\Debug\net5.0\GenericWeb.Business.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\GenericWeb\GenericWeb.Business\obj\Debug\net5.0\refint\GenericWeb.Business.dll
+C:\Users\Mehmet Kelleli\Desktop\myblog\GenericWeb\GenericWeb.Business\obj\Debug\net5.0\GenericWeb.Business.pdb
+C:\Users\Mehmet Kelleli\Desktop\myblog\GenericWeb\GenericWeb.Business\obj\Debug\net5.0\ref\GenericWeb.Business.dll

@@ -1,0 +1,40 @@
+﻿@model Cv
+@{
+    ViewBag.title = "About";
+    Layout = "~/Views/Shared/_BlogLayout.cshtml";
+}
+	<style type="text/css">
+
+		.kod{
+			width: 100%;
+			text-align:left;
+		}
+		.sol{
+			width: 80%!important;
+			margin: 0 auto!important;
+
+		}
+		
+		.card{
+			box-shadow: 0 0 0 0!important;
+			text-align: justify;
+			
+		}
+		.card>p{
+			margin-top: 50px;
+		}
+	</style>
+	<main class="web-main" style="margin-top: 50px;">
+ 	<div class="sol">
+ 	<h1>@Model.CvTitle</h1>
+ 		<div class="card" style="">
+ 			@Html.Raw(@Model.CvContent)
+ 		</div>
+
+ 	</div>
+
+
+
+
+ </main>
+

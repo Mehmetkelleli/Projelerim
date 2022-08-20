@@ -1,0 +1,39 @@
+﻿@model Post
+
+@{
+    ViewBag.title = Model.Name;
+    Layout = "~/Views/Shared/_BlogLayout.cshtml";
+}
+<style type="text/css">
+
+		.kod{
+			width: 100%;
+			text-align:left;
+		}
+		.sol{
+			width: 80%!important;
+			margin: 0 auto!important;
+			text-align: center !important;
+
+		}
+		
+		.card{
+			box-shadow: 0 0 0 0!important;
+			text-align: justify;
+			
+		}
+		.card>p{
+			margin-top: 50px;
+		}
+	</style>
+	 <main class="web-main" style="margin-top: 200px;">
+ 	<div class="sol">
+ 	<h1>@Model.Name</h1>
+ 		<div class="card" style="">
+			<img src="~/blog/assets/img/@Model.Picture">
+ 			<div>
+				 @Html.Raw(Model.Description)
+			 </div>
+			</div>
+ 	</div>
+ </main>

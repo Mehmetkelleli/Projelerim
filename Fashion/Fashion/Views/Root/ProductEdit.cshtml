@@ -1,0 +1,76 @@
+﻿@model ProductCategoryViewModel
+@{
+    ViewData["Title"] = "ProductEdit";
+    Layout = "~/Views/Shared/_LayoutRoot.cshtml";
+}
+<div class="col-md-9">
+    <div class="card card-primary mt-5">
+              <div class="card-header">
+                <h3 class="card-title">Product Add</h3>
+              </div>
+              <!-- /.card-header -->
+              <!-- form start -->
+              <form asp-controller="Root" asp-action="ProductEdit" method="post" enctype="multipart/form-data">
+              <div class="row">
+                  <div class="col-md-6">
+                     
+                <div class="card-body">
+                  <div class="form-group">
+                    <label>Name</label>
+                    <input name="Name" class="form-control" placeholder="Enter Name" Value="@Model.product.Name">
+                  </div>
+                  <div class="form-group">
+                    <label>Seo Url</label>
+                    <input name="Url" class="form-control" placeholder="Enter Seo" Value="@Model.product.Url">
+                  </div>
+                  <div class="form-group">
+                    <label>Description</label>
+                     <textarea name="Description" id="editor" class="form-control">@Model.product.Description</textarea>
+                  </div>
+                  <div class="form-group">
+                    <label>Price</label>
+                    <input name="Price" type="number" class="form-control" placeholder="" Value="@Model.product.Price">
+                  </div>
+                  <div class="form-group">
+                    <label>Stock</label>
+                    <input name="Stock" class="form-control" placeholder="" Value="@Model.product.Stock">
+                  </div>
+                  <div class="form-group">
+                    <label>İmg Url</label>
+                    <input name="ImgUrl" type="hidden" class="form-control" placeholder="Enter Img Url" Value="@Model.product.ImgUrl">
+                    <input name="FileImg" type="file">
+                </div>
+                  <div class="form-group">
+                    <label>Is Home</label>
+                    <input name="IsHome" type="checkbox" value="true" class="form-control" @(Model.product.IsHome==true?"checked":"") >
+                  </div>
+                  <div class="form-group">
+                    <label>Color</label>
+                    <Select name="ColorId" asp-items="@ViewBag.ColorList"></Select>
+                    <input type="hidden"name="Id" value="@Model.product.Id">
+                  </div>
+                </div>
+                <!-- /.card-body -->
+
+                <div class="card-footer">
+                  <button type="submit" class="btn btn-primary">Edit Product</button>
+                </div>
+                    
+                  </div>
+              <div class="col-md-6 mt-5">
+                  <img src="~/img/product-img/@Model.product.ImgUrl" class="img-fluid w-50">
+                  @foreach (var item in (List<Category>)ViewData["ProductCategories"])
+                   {
+                    <div class="form-check">
+                       <input class="form-check-input" name="CategoryId" value="@item.Id" type="checkbox" @(Model.product.ProductCategory.Any(i=>i.CategoryId==item.Id)?"checked":"")>
+                       <label class="form-check-label">
+                        @item.Name
+                       </label>
+                    </div>
+                   }
+              
+              </div>
+              </form>
+
+            </div>
+</div>

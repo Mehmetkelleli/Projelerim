@@ -1,0 +1,74 @@
+﻿@model ProductListViewModel
+@{
+    ViewData["Title"] = "ProductList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Admin Product</h1>
+        <hr>
+        <div class="row">
+            <div class="col-md-8">
+                <a class="btn btn-success btn-md" asp-controller="admin" asp-action="ProductCreate">Category Add</a>
+                @if (TempData["message"] != null)
+                {
+                    var message =  JsonSerializer.Deserialize<Message>(TempData["message"] as string);;
+                    <div class="alert alert-@message.MessageType">@message.MessageString</div>
+                }
+            </div>
+        </div>
+        <table class="table table-border">
+            <thead>
+                <tr>
+                    <td>Id</td>
+                    <td>Img</td>
+                    <td>Name</td>
+                    <td>Price</td>
+                    <td>Home Page Content</td>
+                    <td>Active</td>
+                    <td></td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Products)
+               {
+                 <tr>
+                    <td>@item.ProductId</td>
+                    <td><img src="~/img/@item.ImageUrl" width="80"></td>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                    <td>
+                            @if (item.IsHome)
+                            {
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            }
+                            else
+                            {
+                              <i class="fas fa-ban"></i>
+                            }
+                        </td>
+                    <td>
+                        @if (item.IsApproved)
+                            {
+                                <i class="fa fa-check" aria-hidden="true"></i>
+                            }
+                            else
+                            {
+                                <i class="fas fa-ban"></i>
+                            }
+                    </td>
+                    <td>
+                        <a asp-controller="admin" asp-action="ProductEdit" asp-route-id="@item.ProductId" class="btn                            btn-dark">Edit</a>
+                        <form asp-controller="admin" asp-action="ProductDelete" class="d-inline" method="post">
+                            <input type="hidden" name="ProductId" value="@item.ProductId">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+               }
+            </tbody>
+        </table>
+    </div>
+</div>
+

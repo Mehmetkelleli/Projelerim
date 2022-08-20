@@ -1,0 +1,27 @@
+﻿
+@model Product        
+
+                                <div class="col-12 col-sm-6 col-lg-4 single_gallery_item wow fadeInUpBig" data-wow-delay="0.2s">
+                                    <!-- Product Image -->
+                                    <div class="product-img">
+                                        <img src="~/img/product-img/@Model.ImgUrl" alt="">
+                                        <div class="product-quicview">
+                                            <a href="" data-toggle="modal"><i class="ti-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <!-- Product Description -->
+                                    <div class="product-description">
+                                        <h4 class="product-price">@Model.Price</h4>
+                                        <p>@Model.Name</p>
+                                        <!-- Add to Cart -->
+                                        <a asp-controller="Shop" asp-action="Details" asp-route-url="@Model.Url" class="add-to-cart-btn">Details</a>
+                                    @if (User.Identity.IsAuthenticated)
+                                    {
+                                         <form method="post" style="display:inline" asp-controller="Cart" asp-action="AddCart">
+                                             <input type="hidden" name="ProductId" value="@Model.Id">
+                                             <input type="hidden" name="Quantity" value="1">
+                                             <button type="submit" class="add-to-cart-btn">Add To Cart</button>
+                                         </form>
+                                    }
+                                    </div>
+                                </div>
